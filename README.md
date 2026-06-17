@@ -32,7 +32,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Enmas078/movie-dashboard.git
 ```
 
 ### 2. Navigate into the Project Directory
@@ -54,6 +54,7 @@ Create a `.env` file in the root directory and add the following:
 ```env
 VITE_TMDB_API_KEY=your_api_key
 VITE_TMDB_BASE_URL=https://www.omdbapi.com
+
 ```
 
 Replace `your_api_key` with your OMDb API key.
