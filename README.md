@@ -35,7 +35,7 @@ Follow these steps to run the project locally.
 git clone https://github.com/Enmas078/movie-dashboard.git
 ```
 
-### 2. Navigate into the Project Directory
+### 2. Navigate into the Project Directory 
 
 ```bash
 cd movie-dashboard
